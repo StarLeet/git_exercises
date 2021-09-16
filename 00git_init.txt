@@ -1,1 +1,1 @@
-git init success!
+git init false!
